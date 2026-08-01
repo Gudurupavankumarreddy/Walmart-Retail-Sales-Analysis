@@ -13,9 +13,15 @@
 
 ---
 
+<div align="center">
+  <img src="Image/Dashboard 1.png" alt="Walmart Executive Sales Overview" width="900">
+</div>
+
+---
+
 ## 📌 Repository Name
 ```
-walmart-sales-analysis
+Walmart-sales-analysis
 ```
 
 ## 📝 Repository Description
